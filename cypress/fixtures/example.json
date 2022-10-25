@@ -1,0 +1,12 @@
+{
+  "Username":"l.jenkins",
+  "Password": "hunter2",
+  "invalid":"invalid",
+  "lastName":"Smith",
+  "email" : "johsmith@xyz.com",
+  "phone" :"12345678901",
+  "company":"Matillion",
+  "postcode":"S1 2BD",
+  "feedback":"I hope this feedback is useful, Thank You"
+
+}
